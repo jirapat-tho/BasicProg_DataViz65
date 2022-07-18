@@ -139,10 +139,10 @@
       ],
       "metadata": {
         "id": "tDjbqTFCExUT",
-        "outputId": "0d417b0a-cd8a-44e7-cac2-3263bc78639c",
         "colab": {
           "base_uri": "https://localhost:8080/"
-        }
+        },
+        "outputId": "0d417b0a-cd8a-44e7-cac2-3263bc78639c"
       },
       "execution_count": 9,
       "outputs": [
@@ -167,11 +167,11 @@
         "mat_a[1:2]"
       ],
       "metadata": {
-        "id": "fh1BiQXDIMtW",
-        "outputId": "e174bb5c-0da7-41b2-b8e4-f1628816e6e5",
         "colab": {
           "base_uri": "https://localhost:8080/"
-        }
+        },
+        "id": "fh1BiQXDIMtW",
+        "outputId": "e174bb5c-0da7-41b2-b8e4-f1628816e6e5"
       },
       "execution_count": 11,
       "outputs": [
@@ -193,11 +193,11 @@
         "mat_b[1:,2::2]"
       ],
       "metadata": {
-        "id": "D__AiFAII7et",
-        "outputId": "2fcca93b-32a0-4c86-d3e4-42ce7b20d604",
         "colab": {
           "base_uri": "https://localhost:8080/"
-        }
+        },
+        "id": "D__AiFAII7et",
+        "outputId": "2fcca93b-32a0-4c86-d3e4-42ce7b20d604"
       },
       "execution_count": 12,
       "outputs": [
